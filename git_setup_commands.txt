@@ -1,0 +1,168 @@
+    1  zsh --version
+    2  conda init zsh
+    3  conda
+    4  source ~/anaconda3/etc/profile.d/conda.sh
+    5  conda init zsh
+    6  conda
+    7  clear
+    8  code ~/.zshrc
+    9  zsh --version
+   10  sudo apt-get install powerline fonts-powerline
+   11  sudo apt-get install zsh-theme-powerlevel9k
+   12   echo "source /usr/share/powerlevel9k/powerlevel9k.zsh-theme" >> ~/.zshrc
+   13  sudo apt-get install zsh-syntax-highlighting
+   14  echo "source /usr/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh" >> ~/.zshrc\n
+   15  conda env list
+   16  code ~/.zshrc
+   17  git clone https://github.com/zsh-users/zsh-autosuggestions ~/.zsh/zsh-autosuggestions\n
+   18  code ~/.zshrc
+   19  conda env list
+   20  sudo apt-get install git
+   21  sh -c "$(wget https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/\ninstall.sh -O -)"
+   22  sh -c "$(wget https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)"
+   23  ls
+   24  clear
+   25  code ~/.zshrc
+   26  cd /mnt/c
+   27  ls
+   28  cd fonts
+   29  ls
+   30  git clone https://github.com/powerline/fonts.git\n
+   31  ls
+   32  cd fonts
+   33  .\install.ps1\n
+   34  code ~/.zshrc
+   35  source ~/anaconda3/etc/profile.d/conda.sh
+   36  conda init zsh
+   37  conda env list
+   38  conda activate py37
+   39  conda env list
+   40  conda activate py37
+   41  conda env list
+   42  conda activate py37
+   43  jupyter notebook
+   44  conda activate base
+   45  jupyter notebook
+   46  ls
+   47  cd Desktop
+   48  ls
+   49  cd Daily
+   50  cd WSL
+   51  jupyter notebook
+   52  code
+   53  code ~/.zshrc
+   54  cd .
+   55  ~
+   56  ls
+   57  cd  /mnt/c/Users/hnhtd
+   58  ls
+   59  conda activate py37
+   60  ls
+   61  cd Desktop
+   62  cd Da
+   63  cd Daily
+   64  ls
+   65  cd WSL
+   66  history > 01.txt
+   67  history > 02.txt
+   68   history > /mnt/c/Users/hnhtd/Desktop/Daily/wsl/07.txt
+   69  history > /mnt/c/Users/hnhtd/Desktop/Daily/wsl/08.txt
+   70  history > /mnt/c/Users/hnhtd/Desktop/Daily/wsl/09.txt
+   71  history > /mnt/c/Users/hnhtd/Desktop/Daily/wsl/10.txt
+   72  history > /mnt/c/Users/hnhtd/Desktop/Daily/wsl/11.txt
+   73  history > /mnt/c/Users/hnhtd/Desktop/Daily/wsl/12.txt
+   74  history > /mnt/c/Users/hnhtd/Desktop/Daily/wsl/13.txt
+   75  history > /mnt/c/Users/hnhtd/Desktop/Daily/wsl/14.txt
+   76  history > /mnt/c/Users/hnhtd/Desktop/Daily/wsl/15.txt
+   77  python --version
+   78  jupyter notebook
+   79  cd  /Desktop/Daily/WSL
+   80  ls
+   81  cd /Desktop/
+   82  CD ls
+   83  ls
+   84  cd /Desktop/
+   85  ls
+   86  cd Desktop/
+   87  ls
+   88  cd Desktop/Daily/WSL
+   89  echo myfile.txt
+   90  ls
+   91  cd Daily
+   92  cd WSL
+   93  ls
+   94  echo myfile.txt
+   95  ls
+   96  touch myfile.txt
+   97  ls
+   98  echo
+   99  echo myfile.txt
+  100  ls
+  101  echo history > myfile.txt
+  102  ls
+  103  cat myfile.txt
+  104  history > myfile.txt
+  105  ls
+  106  cat myfile.txt
+  107  ls
+  108  cd Daily
+  109  ls
+  110  cd Daily
+  111  dir
+  112  ls
+  113  cd Desktop/Daily/WSL
+  114  jupyter notebook
+  115  code
+  116  vs code
+  117  ls
+  118  cd Desktop/Daily/WSL
+  119  history > /mnt/c/Users/hnhtd/Desktop/Daily/wsl/12.txt
+  120  ls
+  121  conda activate py37
+  122  ls
+  123  conda activate base
+  124  ls
+  125  cd Desktop/Daily/WSL
+  126  ls
+  127  +tocuh 
+  128  tocuh 12.txt
+  129  nano 12.txt
+  130  conda activate base
+  131  conda activate py37
+  132  ls
+  133  jupyter notebook
+  134  conda activate base
+  135  ls
+  136  jupyter notebook
+  137  python --version
+  138  conda activate py37
+  139  python --version
+  140  conda activate base
+  141  jupyter notebook
+  142  pip install jupyter_contrib_nbextensions
+  143  jupyter notebook
+  144  conda install -c conda-forge jupyter_contrib_nbextensions\n
+  145  jupyter nbextension --version
+  146  jupyter notebook
+  147  history > hist01.txt
+  148  history > hist02.txt
+  149  history > hist03.txt
+  150  pwd
+  151  cd Desktop/Daily/WSL
+  152  cd ..
+  153  ls
+  154  cd WSLGit
+  155  ls
+  156  git
+  157  git init
+  158  y
+  159  git add .
+  160  git status
+  161  git commit -m "First Commit"
+  162  git config
+  163  git config hessnej
+  164  git config user.name hessnej
+  165  ls
+  166  git commit -m "First Commit"
+  167  git remote add origin https://github.com/samnejati/Alihjz.git
+  168  git push -u origin master
